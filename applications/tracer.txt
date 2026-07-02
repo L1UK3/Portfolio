@@ -1,0 +1,8 @@
+In my playwales project I have set up automated CI/CD pipelines to Render for my FastAPI backend and Vercel for my Vite React frontend. 
+I have personally spent hours scrolling through logs - even ones that felt contradicting to eachother on different platforms - and was left frustrated. 
+This has taught me that there is value in reducing developer stress as it will in turn dramatically increase developer output and I am eager to work on
+a tool that helps developers.
+
+I enjoy building responsive, reactive and clean user-first tools that resonate well with fellow developers and I believe my FastAPI and React experience
+.
+
